@@ -1,2 +1,3 @@
 # MMS dz7
- Rad na završnom projektu iz ranijih godina iz Multimedijskih sustava
+(Multimedijski sustavi 2021/2022)
+ Rad na završnom projektu iz ranijih godina - Solitaire
